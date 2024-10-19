@@ -10,7 +10,7 @@ This project extracts structured data (such as invoice numbers, customer details
 
 ## Documentation and Reports:
 All detailed reports and documentation, including the Technical Documentation, Accuracy and Trust Assessment Report, and Performance Analysis are available at the following link:
-[Link Text](https://drive.google.com/drive/folders/1cu1Gr1HbtxWsipZWwOyacuVhLVuwG3A_?usp=sharing)
+[Documentation and Reports](https://drive.google.com/drive/folders/1cu1Gr1HbtxWsipZWwOyacuVhLVuwG3A_?usp=sharing)
 
 
 ## Installation
