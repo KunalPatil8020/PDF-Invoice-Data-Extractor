@@ -3,10 +3,15 @@
 This project extracts structured data (such as invoice numbers, customer details, total amounts, and item details) from PDF invoices using a combination of `pdfplumber` for text-based PDFs and `pytesseract` for scanned or image-based PDFs. The extracted data is saved to a CSV file along with performance metrics (processing time, memory usage, and CPU utilization).
 
 ## Features
-- Extracts text from PDFs using `pdfplumber` (text-based PDFs) and `pytesseract` (image-based PDFs).
+- Extract text from PDFs using `pdfplumber` (text-based PDFs) and `pytesseract` (image-based PDFs).
 - Preprocesses scanned PDFs to improve OCR accuracy.
-- Extracts key invoice details like Invoice Number, Date, Customer Name, Items, and Amount.
+- Extract key invoice details like Invoice Number, Date, Customer Name, Items, and Amount.
 - Generates CSV files for extracted data and performance metrics.
+
+## Documentation and Reports:
+All detailed reports and documentation, including the Technical Documentation, Accuracy and Trust Assessment Report, and Performance Analysis are available at the following link:
+[Link Text](https://drive.google.com/drive/folders/1cu1Gr1HbtxWsipZWwOyacuVhLVuwG3A_?usp=sharing)
+
 
 ## Installation
 
